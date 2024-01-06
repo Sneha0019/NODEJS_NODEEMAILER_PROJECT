@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_project_nodemailer",
+  "version": "1.0.0",
+  "description": "nodeJS_EMAILER_PROJECT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sneha_Menat",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.8"
+  }
+}
